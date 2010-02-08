@@ -33,9 +33,9 @@ q:before, q:after {
 	content: none;
 }
 
-/* remember to define focus styles! */
-:focus {
-	outline: 0;
+/* Don't kill focus outline for keyboard users: http://24ways.org/2009/dont-lose-your-focus */
+a:hover, a:active {
+    outline: none;
 }
 
 /* remember to highlight inserts somehow! */
