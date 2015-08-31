@@ -26,7 +26,3 @@ I haven't yet removed these items from the reset but I seriously question their 
 4. `background: transparent;` &ndash; isn't that already the default?
 5. `blockquote, q {quotes:none;}` &ndash; `blockquote` doesn't get quotation marks by default, and who actually uses `q`? If you ask me, quotation marks are just like punctuation&mdash;they should be part of the content, not the markup.
 6. `ins` and `del` &ndash; I think the default style is fine. If not, it would get overridden by my main design anyway.
-
-Feedback
---------
-I'd love any feedback on this. Add your comments on the [wiki](http://wiki.github.com/jasonkarns/css-reset/) or my [blog post](://jasonkarns.com/blog/2010/02/15/css-reset/) on this subject.
