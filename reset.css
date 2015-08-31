@@ -20,6 +20,7 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	vertical-align: baseline;
+	outline: none;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -45,7 +46,7 @@ q:before, q:after {
 a:hover, a:active {
     outline: none;
 }
-
+a{text-decoration: none;}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
