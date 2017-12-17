@@ -50,3 +50,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+dialog {
+	border: none;
+	height: auto;
+	width: auto;
+	position: initial;
+	left: auto;
+	right: auto;
+	padding: 0;
+}
